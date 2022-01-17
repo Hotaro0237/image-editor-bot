@@ -20,7 +20,7 @@
 
 [![Hyper](https://img.shields.io/badge/HyperMod-Channel-orange?style=for-the-badge&logo=telegram)](https://t.me/hypermodofficial)  
 ㅤㅤㅤㅤㅤㅤㅤ  
-[![Hyper](https://img.shields.io/badge/HyperMod-Support-red?style=flat&logo=telegram)](https://telegram.dog/TroJanzSupport)  [![Hyper](https://img.shields.io/badge/TroJanzHEX-Website-red?style=flat&logo=CodersRank)](https://hypermodz.ml)  
+[![Hyper](https://img.shields.io/badge/HyperMod-Support-red?style=flat&logo=telegram)](https://telegram.dog/TroJanzSupport)  [![Hyper](https://img.shields.io/badge/HyperMod-Website-red?style=flat&logo=CodersRank)](https://hypermodz.ml)  
 ㅤㅤㅤㅤㅤㅤㅤ  
 [![MIT license](https://img.shields.io/badge/License-MIT-blue?style=flat)](https://github.com/HYPER-MOD/image-editor-bot/blob/main/COPYING)  [![Open Source](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/HYPER-MOD/image-editor-bot)
 
